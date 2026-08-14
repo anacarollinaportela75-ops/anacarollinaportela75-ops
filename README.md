@@ -47,3 +47,11 @@
 ├── FOCUS: Desenvolvimento, Testes & Qualidade (QA) e Produtos
 ├── EXPERIENCE: Suporte Técnico e Atendimento ao Cliente
 └── LOCATION: Brasil
+anacarollina@system:~$ ./check_goals.sh
+
+[✓] Desenvolver aplicações web com HTML/CSS, JS e React
+[✓] Aprimorar habilidades em testes manuais e automatizados (QA)
+[⌛] Conquistar o 1º Estágio em Engenharia de Software / Dev / QA
+[⚡] Aprender novos frameworks e arquiteturas de software diariamente
+
+anacarollina@system:~$ STATUS: "Ready for new challenges and growing fast!"
