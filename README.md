@@ -32,7 +32,7 @@
   <a href="https://github.com/anacarollinaportela75-ops" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://raw.githubusercontent.com/anacarollinaportela75-ops/anacarollinaportela75-ops/main/curriculo.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/anacarollinaportela75-ops/anacarollinaportela75-ops/main/Curriculo_Ana%20Carollina%20Portela.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-FF0055?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo PDF" />
   </a>
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 🧬 <span style="color: #00F0FF;">// SOBRE MIM:</span> 
+## 🧬 <span style="color: #00F0FF;">// PROFILE_OVERVIEW</span> (Sobre Mim)
 
 ```text
 ┌──[ USER_DATA ]
