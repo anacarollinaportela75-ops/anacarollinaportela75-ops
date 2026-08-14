@@ -20,8 +20,8 @@
 
   ---
 
-  <!-- REDES SOCIAIS COM LINKS ATUALIZADOS -->
-  <h3>🌐 CONECTE-SE COMIGO</h3>
+  <!-- REDES SOCIAIS E CURRÍCULO -->
+  <h3>🌐 CONNECT WITH ME</h3>
   
   <a href="https://linkedin.com/in/ana-carollina-portela-044641413" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -32,6 +32,9 @@
   <a href="https://github.com/anacarollinaportela75-ops" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://raw.githubusercontent.com/anacarollinaportela75-ops/anacarollinaportela75-ops/main/curriculo.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-FF0055?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículo PDF" />
+  </a>
 
 </div>
 
@@ -39,7 +42,7 @@
 
 ---
 
-## 🧬 <span style="color: #00F0FF;">// PROFILE_OVERVIEW</span> (Sobre Mim)
+## 🧬 <span style="color: #00F0FF;">// SOBRE MIM:</span> 
 
 ```text
 ┌──[ USER_DATA ]
@@ -47,11 +50,10 @@
 ├── FOCUS: Desenvolvimento, Testes & Qualidade (QA) e Produtos
 ├── EXPERIENCE: Suporte Técnico e Atendimento ao Cliente
 └── LOCATION: Brasil
-anacarollina@system:~$ ./check_goals.sh
 
 [✓] Desenvolver aplicações web com HTML/CSS, JS e React
 [✓] Aprimorar habilidades em testes manuais e automatizados (QA)
 [⌛] Conquistar o 1º Estágio em Engenharia de Software / Dev / QA
 [⚡] Aprender novos frameworks e arquiteturas de software diariamente
 
-anacarollina@system:~$ STATUS: "Ready for new challenges and growing fast!"
+
