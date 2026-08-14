@@ -45,7 +45,7 @@
 ## 🧬 <span style="color: #00F0FF;"> SOBRE MIM:</span> 
 
 ```text
-┌──[ USER_DATA ]
+┌──[ MEU PERFIL ]
 ├── Estudante de Engenharia de Software da Faculdade de Marília [UNIMAR]
 ├── FOCUS: Desenvolvimento, Testes & Qualidade (QA) e Produtos
 ├── COMO POSSO TE AJUDAR: Suporte Técnico e Atendimento ao Cliente
