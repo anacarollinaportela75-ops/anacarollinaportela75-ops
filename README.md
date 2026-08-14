@@ -21,7 +21,7 @@
   ---
 
   <!-- REDES SOCIAIS E CURRÍCULO -->
-  <h3>🌐 CONNECT WITH ME</h3>
+  <h3>🌐 CONECTE-SE COMIGO</h3>
   
   <a href="https://linkedin.com/in/ana-carollina-portela-044641413" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -42,16 +42,16 @@
 
 ---
 
-## 🧬 <span style="color: #00F0FF;">// PROFILE_OVERVIEW</span> (Sobre Mim)
+## 🧬 <span style="color: #00F0FF;">// SOBRE MIM:</span> 
 
 ```text
 ┌──[ USER_DATA ]
-├── ROLE: Estudante de Engenharia de Software
+├── Estudante de Engenharia de Software da Faculdade de Marília [UNIMAR]
 ├── FOCUS: Desenvolvimento, Testes & Qualidade (QA) e Produtos
-├── EXPERIENCE: Suporte Técnico e Atendimento ao Cliente
-└── LOCATION: Brasil
+├── COMO POSSO TE AJUDAR: Suporte Técnico e Atendimento ao Cliente
+└── LOCALIZAÇÃO: Para todo o Brasil
 
-[✓] Desenvolver aplicações web com HTML/CSS, JS e React
+[✓] Desenvolver aplicações web com HTML/CSS, JS, PHP e React
 [✓] Aprimorar habilidades em testes manuais e automatizados (QA)
 [⌛] Conquistar o 1º Estágio em Engenharia de Software / Dev / QA
 [⚡] Aprender novos frameworks e arquiteturas de software diariamente
