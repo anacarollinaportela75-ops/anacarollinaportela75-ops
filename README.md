@@ -42,7 +42,7 @@
 
 ---
 
-## 🧬 <span style="color: #00F0FF;">// SOBRE MIM:</span> 
+## 🧬 <span style="color: #00F0FF;"> SOBRE MIM:</span> 
 
 ```text
 ┌──[ USER_DATA ]
