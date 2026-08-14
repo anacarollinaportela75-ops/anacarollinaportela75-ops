@@ -1,11 +1,10 @@
 <div align="center">
 
   <!-- BANNER PRINCIPAL COM TYPING ANIMATION -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=800&height=70&lines=SYSTEM+INITIALIZED...;WELCOME+TO+MY+CYBERSPACE;ENGINERING+SOFTWARE+STUDENT;DEV+%2B+QA+%2B+PRODUCT+ENTHUSIAST" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=800&height=70&lines=SYSTEM+INITIALIZED...;WELCOME+TO+MY+CYBERSPACE;ENGINEERING+SOFTWARE+STUDENT;DEV+%2B+QA+%2B+PRODUCT+ENTHUSIAST" alt="Typing SVG" />
 
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Space/Robot.png" alt="Robot" width="40" height="40" />
-    <span style="color: #00F0FF;">ANA CAROLLINA PORTELA</span>
+    🤖 <span style="color: #00F0FF;">ANA CAROLLINA PORTELA</span>
   </h1>
 
   <p align="center">
@@ -21,16 +20,16 @@
 
   ---
 
-  <!-- REDES SOCIAIS -->
-  <h3>🌐 CONNECT WITH ME</h3>
+  <!-- REDES SOCIAIS COM LINKS ATUALIZADOS -->
+  <h3>🌐 CONECTE-SE COMIGO</h3>
   
-  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
+  <a href="https://linkedin.com/in/ana-carollina-portela-044641413" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seuemail@exemplo.com" target="_blank">
+  <a href="mailto:anacarollinaportela75@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/SEU_USUARIO" target="_blank">
+  <a href="https://github.com/anacarollinaportela75-ops" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
