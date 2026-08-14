@@ -47,7 +47,7 @@
 ```text
 ┌──[ MEU PERFIL ]
 ├── Estudante de Engenharia de Software da Faculdade de Marília [UNIMAR]
-├── FOCUS: Desenvolvimento, Testes & Qualidade (QA) e Produtos
+├── FOCO: Desenvolvimento, Testes & Qualidade (QA) e Produtos
 ├── COMO POSSO TE AJUDAR: Suporte Técnico e Atendimento ao Cliente
 └── LOCALIZAÇÃO: Para todo o Brasil
 
